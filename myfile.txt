@@ -1,0 +1,3 @@
+learn django
+learn python
+learn SQL
